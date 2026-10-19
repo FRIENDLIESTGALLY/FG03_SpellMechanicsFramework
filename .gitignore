@@ -1,0 +1,11 @@
+# Build output and xmake caches
+build/
+.xmake/
+vsxmake*/
+.vs/
+compile_commands.json
+*.log
+
+# Local-only files
+build-local.bat
+*.bak*
